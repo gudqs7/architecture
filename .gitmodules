@@ -1,0 +1,9 @@
+[submodule "behind"]
+	path = behind
+	url = git@github.com:gudqs-architecture/behind.git
+[submodule "linux-script"]
+	path = linux-script
+	url = git@github.com:gudqs7/linux-script.git
+[submodule "start-template"]
+	path = start-template
+	url = git@github.com:gudqs7/start-template.git
