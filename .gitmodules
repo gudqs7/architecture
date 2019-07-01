@@ -3,7 +3,7 @@
 	url = git@github.com:gudqs-architecture/behind.git
 [submodule "linux-script"]
 	path = linux-script
-	url = git@github.com:gudqs7/linux-script.git
+	url = git@github.com:gudqs-architecture/linux-script.git 
 [submodule "start-template"]
 	path = start-template
-	url = git@github.com:gudqs7/start-template.git
+	url = git@github.com:gudqs-architecture/start-template.git
